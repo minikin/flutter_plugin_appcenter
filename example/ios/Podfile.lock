@@ -1,5 +1,5 @@
 PODS:
-  - appcenter (0.0.1):
+  - appcenter (0.2.1):
     - AppCenter
     - Flutter
   - AppCenter (1.2.0):
@@ -19,10 +19,10 @@ PODS:
   - Flutter (1.0.0)
 
 DEPENDENCIES:
-  - appcenter (from `/Users/aichehda/Downloads/flutter_plugin_appcenter/src/appcenter/ios`)
-  - appcenter_analytics (from `/Users/aichehda/Downloads/flutter_plugin_appcenter/src/appcenter_analytics/ios`)
-  - appcenter_crashes (from `/Users/aichehda/Downloads/flutter_plugin_appcenter/src/appcenter_crashes/ios`)
-  - Flutter (from `/Users/aichehda/Library/flutter/bin/cache/artifacts/engine/ios`)
+  - appcenter (from `/Developer/Personal/flutter_plugin_appcenter/src/appcenter/ios`)
+  - appcenter_analytics (from `/Developer/Personal/flutter_plugin_appcenter/src/appcenter_analytics/ios`)
+  - appcenter_crashes (from `/Developer/Personal/flutter_plugin_appcenter/src/appcenter_crashes/ios`)
+  - Flutter (from `/Users/Sascha/flutter/bin/cache/artifacts/engine/ios`)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -30,17 +30,17 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   appcenter:
-    :path: "/Users/aichehda/Downloads/flutter_plugin_appcenter/src/appcenter/ios"
+    :path: "/Developer/Personal/flutter_plugin_appcenter/src/appcenter/ios"
   appcenter_analytics:
-    :path: "/Users/aichehda/Downloads/flutter_plugin_appcenter/src/appcenter_analytics/ios"
+    :path: "/Developer/Personal/flutter_plugin_appcenter/src/appcenter_analytics/ios"
   appcenter_crashes:
-    :path: "/Users/aichehda/Downloads/flutter_plugin_appcenter/src/appcenter_crashes/ios"
+    :path: "/Developer/Personal/flutter_plugin_appcenter/src/appcenter_crashes/ios"
   Flutter:
-    :path: "/Users/aichehda/Library/flutter/bin/cache/artifacts/engine/ios"
+    :path: "/Users/Sascha/flutter/bin/cache/artifacts/engine/ios"
 
 SPEC CHECKSUMS:
   AppCenter: d0b68b2a7a87ac0aed78e66f36d87fd321d0a29c
-  appcenter: 5e85f0b7c5c040e551f8976c559103bfdb13cee2
+  appcenter: e9598c0b2341255cd03201cd395f5f57272df6d5
   appcenter_analytics: ff44d283dfb2942015f45a0550bf3e8be60eb757
   appcenter_crashes: 5c44889c35121ee939f1b7ca3ea040d6876f9096
   Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
